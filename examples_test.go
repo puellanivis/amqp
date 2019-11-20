@@ -9,7 +9,7 @@ import (
 	"runtime"
 	"time"
 
-	"github.com/streadway/amqp"
+	"github.com/puellanivis/amqp"
 )
 
 func ExampleConfig_timeout() {

@@ -7,7 +7,7 @@ import (
 	"os"
 	"time"
 
-	"github.com/streadway/amqp"
+	"github.com/puellanivis/amqp"
 )
 
 // This exports a Session object that wraps this library. It
